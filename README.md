@@ -1,4 +1,4 @@
-# INTERLINK
+9# INTERLINK
 <h3>An Intelligent Tour Planning for Disconnected Industrial Internet of Things (IIoT) with Multiple Mobile Sinks</h3>
 It developed using C# and WPF in .NET 4.5. 
 
@@ -9,11 +9,7 @@ This toolkit is a simulation for Multiple Mobile Sinks (MMSs) scenarios in WSN-b
 
 To install, you need to download [initialtoolkit](http://staff.ustc.edu.cn/~anmande/miniflow/toolkit.rar), then just run MMSs.exe after downloading all the shared files.
 
-Noted that the current simulator is developed mode [main_simulator](http://staff.ustc.edu.cn/~anmande/miniflow/), for which we also thank and cite them.
-
-For more information and details, contact me via <mbiabani@ut.ac.ir>
-
-
+Noted that the current simulator is developed mode [main_simulator](http://staff.ustc.edu.cn/~anmande/miniflow/). 
 -----------------------------------------------------------------------------------------------------
 
 <h4>How to use the toolkit of simple testing:</h4>
