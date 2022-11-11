@@ -79,7 +79,7 @@ More details will be explained soon!
 
 <h3>A practical example in the real world where our simulator can monitor and test your desired performance metrics.</h3> 
 
-<h4>Instance: using drones in the construction industry</h4>
+<h3>Instance: using drones in the construction industry</h4>
 
 ![fut-09-15-15-drones-2](https://user-images.githubusercontent.com/10537549/201305594-1685defd-f7c7-44ec-bc75-a27d61acf56c.jpg)
 ![construction-building-orthomosaic-with-overlayed-blueprint-2](https://user-images.githubusercontent.com/10537549/201305637-a7f86940-787b-4436-b675-0be488312c47.jpg)
