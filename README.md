@@ -58,5 +58,24 @@ Above figure depicts another instance of opportunistic data collection. Node A f
 Apparently, **our method (INTERLINK)** spends less time about 3 sec than the traditional method.
 
 -----------------------------------------------------------------------------------------------------
+
+<h4>Our main idea</h4> 
+
+is to use **Small-World Network** and **Virtual square grid-based coverage algorithm** so that the shortcut links mentioned in the above example are generated.
+
+
+[Small-World Network](https://www.sciencedirect.com/topics/computer-science/small-world-network)
+
+![11067_2018_9417_Fig1_HTML](https://user-images.githubusercontent.com/10537549/201303522-fdf903f4-9237-45f8-ade2-358f29495876.png)
+
+
+**Virtual square grid-based coverage algorithm**
+
+![1-s2 0-S1084804512002500-gr1](https://user-images.githubusercontent.com/10537549/201303867-5d826fba-588e-4fc5-b8ef-cd68c12de2b4.jpg)
+
+
+More details will be explained soon!
+-----------------------------------------------------------------------------------------------------
+
 <h4>You can test the obtained results in our simulator!</h4>
 <h4>We hope you enjoy!</h4>
