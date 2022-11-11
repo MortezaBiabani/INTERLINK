@@ -77,5 +77,26 @@ is to use **Small-World Network** and **Virtual square grid-based coverage algor
 More details will be explained soon!
 -----------------------------------------------------------------------------------------------------
 
+<h3>A practical example in the real world where our simulator can monitor and test your desired performance metrics.</h3> 
+
+<h4>Instance: using drones in the construction industry</h4>
+
+![fut-09-15-15-drones-2](https://user-images.githubusercontent.com/10537549/201305594-1685defd-f7c7-44ec-bc75-a27d61acf56c.jpg)
+![construction-building-orthomosaic-with-overlayed-blueprint-2](https://user-images.githubusercontent.com/10537549/201305637-a7f86940-787b-4436-b675-0be488312c47.jpg)
+
+People have been building things for a long time – that’s for sure. Construction has been around for centuries, and it should be round for many more. However, construction today isn’t the same as it was a thousand years ago. As with anything, things modernise and develop. Today, things are moving faster than ever, and new ideas, methods and technologies are entering the construction industry every year.
+
+That’s why drones have started to make such a big impact. While they aren’t helping the actual labour process (yet) – they’ve still got a huge role to play in the construction industry, and that role is growing. Drones have helped revolutionalize the planning stages of construction, along with land surveying and data capturing. And these are just a few of the uses for drones in construction.
+
+Construction is one industry that’s really taken drones and run with them. Drone use in construction is up year-on-year, and that looks et to continue. There are two simple reasons why drones are so popular in construction – they can save developers time and money. Builders love drones because they can provide an aerial view of either sites or potential sites with simple and affordable ease.
+
+Previously, you had to pay for a manned aircraft to get such an aerial view. The cost of doing that can be prohibitive to many building firms, especially smaller ones. Even those that could afford to do it, wouldn’t do it regularly.
+
+Now with drones, you can get up-to-date images as often as you like. Every day if you need them. That means you can get a real feel for how the build is progressing. Drones allow builders the chance to develop better plans, track progress and monitor any issues with the construction by providing an unrivalled wide-view of a site at a fraction of the cost.
+
+
+[Find more information here](https://www.geospatialworld.net/blogs/using-drones-in-the-construction-industry/)
+
+-----------------------------------------------------------------------------------------------------
 <h4>You can test the obtained results in our simulator!</h4>
 <h4>We hope you enjoy!</h4>
