@@ -77,7 +77,7 @@ is to use **Small-World Network** and **Virtual square grid-based coverage algor
 More details will be explained soon!
 -----------------------------------------------------------------------------------------------------
 
-<h3>A practical example in the real world where our simulator can monitor and test your desired performance metrics.</h3> 
+<h3>Practical examples in the real world where our simulator can monitor and test your desired performance metrics.</h3> 
 
 <h3>Instance: using drones in the construction industry</h4>
 
