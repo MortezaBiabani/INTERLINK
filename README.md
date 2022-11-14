@@ -8,6 +8,9 @@ This toolkit is a simulation for Multiple Mobile Sinks (MMSs) scenarios in WSN-b
 A view of the simulator is given in the figure below:
 
 ![Capture](https://user-images.githubusercontent.com/10537549/197042140-9ff3748d-20f2-4700-bb3c-3eee54a876b4.PNG)
+![Untitled](https://user-images.githubusercontent.com/10537549/201714560-80b9833d-047a-44a1-933c-52542985ffd0.png)
+
+
 
 To install, you need to download [initialtoolkit](http://staff.ustc.edu.cn/~anmande/miniflow/toolkit.rar), then just run MMSs.exe after downloading all the shared files.
 
