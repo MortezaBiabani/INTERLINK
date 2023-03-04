@@ -1,5 +1,6 @@
 # INTERLINK
-<h2>An Intelligent Tour Planning for Disconnected Industrial Internet of Things (IIoT) with Multiple Mobile Sinks</h2>
+<h2>An obstacle-aware path planning strategy in disconnected WSNs with
+multiple mobile sinks</h2>
 
 It developed using C# and WPF in .NET 4.5. 
 
